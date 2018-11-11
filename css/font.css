@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "GraphikLCG-Medium", sans-serif;
+ /* Имя шрифта */
+    src: url(../fonts/GraphikLCG-Medium.otf);
+}
+
+@font-face {
+    font-family: "GraphikLCG-Regular", sans-serif; /* Имя шрифта */
+    src: url(../fonts/GraphikLCG-Regular.otf);
+}
