@@ -742,6 +742,7 @@ line-height: 24px;
     .main .main__description__buycard {
         width: 100%;
         max-width: 289px;
+        height: auto;
     }
 
     .main .main__description__info {
